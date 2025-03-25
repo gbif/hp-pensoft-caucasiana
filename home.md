@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Caucasiana
+description: Browse data on GBIF associated with publications in Caucasiana
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Antić D, Aleksić T, Milovanović J, Elverici M (2024) Rediscovery of _Euxinopetalum dobatorum_ Hoffman, 1973 (Diplopoda, Callipodida, Schizopetalidae) in Turkey. Caucasiana 3: 223-234. [https://doi.org/10.3897/caucasiana.3.e137308](https://doi.org/10.3897/caucasiana.3.e137308)"
 height: 75vh
 cta:
   - text: Datasets
